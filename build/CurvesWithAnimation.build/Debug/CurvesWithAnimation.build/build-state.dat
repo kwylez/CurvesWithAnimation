@@ -1,0 +1,51 @@
+TCurvesWithAnimation
+v7
+r1
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimationViewController.xib
+c000000004BAA79A7000000000000190B
+t1269463463
+s6411
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/MainWindow.xib
+c000000004BAA79A700000000000024D2
+t1269463463
+s9426
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug/CurvesWithAnimation.app
+t2
+s0
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug/CurvesWithAnimation.app/Contents/Info.plist
+t2
+s0
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug/CurvesWithAnimation.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug/CurvesWithAnimation.app/Contents/Resources/CurvesWithAnimationViewController.nib
+t2
+s0
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug/CurvesWithAnimation.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+NCurvesWithAnimation-Info.plist
+c000000004BAA79A7000000000000038D
+t1269463463
+s909
+
+CCompileXIB /Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimationViewController.xib
+r0
+
+CCompileXIB /Users/cwiles/Desktop/CurvesWithAnimation/MainWindow.xib
+r0
+
+CProcessInfoPlistFile /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug/CurvesWithAnimation.app/Contents/Info.plist CurvesWithAnimation-Info.plist
+r0
+
+CTouch /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug/CurvesWithAnimation.app
+r0
+

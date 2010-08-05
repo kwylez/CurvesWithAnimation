@@ -1,0 +1,322 @@
+// !$*UTF8*$!
+{
+	010B06331160E9B70049B1FA /* PBXBookmarkGroup */ = {
+		isa = PBXBookmarkGroup;
+		children = (
+			010B069E1160FC540049B1FA /* PBXTextBookmark */,
+		);
+		name = Root;
+	};
+	010B063E1160F7CA0049B1FA /* RoundedCornersOne.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 915}}";
+			sepNavSelRange = "{221, 0}";
+			sepNavVisRange = "{0, 263}";
+		};
+	};
+	010B063F1160F7CA0049B1FA /* RoundedCornersOne.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 949}}";
+			sepNavSelRange = "{511, 0}";
+			sepNavVisRange = "{301, 283}";
+		};
+	};
+	010B06411160F7D60049B1FA /* RoundedCornersTwo.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 892}}";
+			sepNavSelRange = "{257, 0}";
+			sepNavVisRange = "{0, 263}";
+		};
+	};
+	010B06421160F7D60049B1FA /* RoundedCornersTwo.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 910}}";
+			sepNavSelRange = "{750, 0}";
+			sepNavVisRange = "{0, 1700}";
+		};
+	};
+	010B06441160F7DF0049B1FA /* RoundedCornersThree.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1057, 780}}";
+			sepNavSelRange = "{261, 0}";
+			sepNavVisRange = "{0, 267}";
+		};
+	};
+	010B06451160F7DF0049B1FA /* RoundedCornersThree.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1057, 910}}";
+			sepNavSelRange = "{763, 0}";
+			sepNavVisRange = "{186, 1539}";
+		};
+	};
+	010B06591160F8500049B1FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01ED39C2115AB249008A32E3 /* RoundedCornersView.h */;
+		name = "RoundedCornersView.h: 15";
+		rLen = 37;
+		rLoc = 222;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	010B069E1160FC540049B1FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CurvesWithAnimationViewController.m */;
+		name = "CurvesWithAnimationViewController.m: 119";
+		rLen = 0;
+		rLoc = 2364;
+		rType = 0;
+		vrLen = 650;
+		vrLoc = 2148;
+	};
+	010B06D31160FF180049B1FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 010B06411160F7D60049B1FA /* RoundedCornersTwo.h */;
+		name = "RoundedCornersTwo.h: 15";
+		rLen = 0;
+		rLoc = 257;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 0;
+	};
+	010B06D81160FF180049B1FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01ED39C3115AB249008A32E3 /* RoundedCornersView.m */;
+		name = "RoundedCornersView.m: 25";
+		rLen = 2302;
+		rLoc = 361;
+		rType = 0;
+		vrLen = 2277;
+		vrLoc = 393;
+	};
+	010B06DF1160FF380049B1FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 010B063F1160F7CA0049B1FA /* RoundedCornersOne.m */;
+		name = "RoundedCornersOne.m: 16";
+		rLen = 0;
+		rLoc = 259;
+		rType = 0;
+		vrLen = 1689;
+		vrLoc = 0;
+	};
+	010B06E01160FF380049B1FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 010B06421160F7D60049B1FA /* RoundedCornersTwo.m */;
+		name = "RoundedCornersTwo.m: 37";
+		rLen = 0;
+		rLoc = 750;
+		rType = 0;
+		vrLen = 1700;
+		vrLoc = 0;
+	};
+	01427A6E11612399007830B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* CurvesWithAnimationViewController.h */;
+		name = "CurvesWithAnimationViewController.h: 13";
+		rLen = 0;
+		rLoc = 313;
+		rType = 0;
+		vrLen = 391;
+		vrLoc = 0;
+	};
+	01427A6F11612399007830B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 010B063E1160F7CA0049B1FA /* RoundedCornersOne.h */;
+		name = "RoundedCornersOne.h: 15";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 263;
+		vrLoc = 0;
+	};
+	01B76A2A120B15B900DEAD42 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* CurvesWithAnimationViewController.m */;
+		name = "CurvesWithAnimationViewController.m: 12";
+		rLen = 0;
+		rLoc = 264;
+		rType = 0;
+		vrLen = 1514;
+		vrLoc = 0;
+	};
+	01B76A2B120B15B900DEAD42 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 010B06441160F7DF0049B1FA /* RoundedCornersThree.h */;
+		name = "RoundedCornersThree.h: 15";
+		rLen = 0;
+		rLoc = 261;
+		rType = 0;
+		vrLen = 267;
+		vrLoc = 0;
+	};
+	01B76A2C120B15B900DEAD42 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 010B06451160F7DF0049B1FA /* RoundedCornersThree.m */;
+		name = "RoundedCornersThree.m: 37";
+		rLen = 0;
+		rLoc = 763;
+		rType = 0;
+		vrLen = 1539;
+		vrLoc = 186;
+	};
+	01B76A2D120B15B900DEAD42 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01ED39C3115AB249008A32E3 /* RoundedCornersView.m */;
+		name = "RoundedCornersView.m: 25";
+		rLen = 2302;
+		rLoc = 361;
+		rType = 0;
+		vrLen = 1690;
+		vrLoc = 3;
+	};
+	01ED39B4115AB128008A32E3 /* CurvesWithAnimation */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CurvesWithAnimation;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	01ED39BE115AB147008A32E3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	01ED39BF115AB147008A32E3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	01ED39C2115AB249008A32E3 /* RoundedCornersView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 892}}";
+			sepNavSelRange = "{222, 37}";
+			sepNavVisRange = "{0, 265}";
+		};
+	};
+	01ED39C3115AB249008A32E3 /* RoundedCornersView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1057, 1235}}";
+			sepNavSelRange = "{361, 2302}";
+			sepNavVisRange = "{3, 1690}";
+			sepNavWindowFrame = "{{15, 28}, {1665, 995}}";
+		};
+	};
+	01ED3A35115AC2E4008A32E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* CurvesWithAnimationAppDelegate.h */;
+		name = "CurvesWithAnimationAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 545;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* CurvesWithAnimationAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 734}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 545}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CurvesWithAnimation */ = {
+		activeExec = 0;
+		executables = (
+			01ED39B4115AB128008A32E3 /* CurvesWithAnimation */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CurvesWithAnimationViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 915}}";
+			sepNavSelRange = "{313, 0}";
+			sepNavVisRange = "{0, 391}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CurvesWithAnimationViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1057, 1365}}";
+			sepNavSelRange = "{264, 0}";
+			sepNavVisRange = "{0, 1514}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 01ED39B4115AB128008A32E3 /* CurvesWithAnimation */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CurvesWithAnimation */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CurvesWithAnimation */,
+		);
+		codeSenseManager = 01ED39BF115AB147008A32E3 /* Code sense */;
+		executables = (
+			01ED39B4115AB128008A32E3 /* CurvesWithAnimation */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					879,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 302716069;
+			PBXWorkspaceStateSaveDate = 302716069;
+		};
+		perUserProjectItems = {
+			010B06591160F8500049B1FA /* PBXTextBookmark */ = 010B06591160F8500049B1FA /* PBXTextBookmark */;
+			010B06D31160FF180049B1FA /* PBXTextBookmark */ = 010B06D31160FF180049B1FA /* PBXTextBookmark */;
+			010B06D81160FF180049B1FA /* PBXTextBookmark */ = 010B06D81160FF180049B1FA /* PBXTextBookmark */;
+			010B06DF1160FF380049B1FA /* PBXTextBookmark */ = 010B06DF1160FF380049B1FA /* PBXTextBookmark */;
+			010B06E01160FF380049B1FA /* PBXTextBookmark */ = 010B06E01160FF380049B1FA /* PBXTextBookmark */;
+			01427A6E11612399007830B9 /* PBXTextBookmark */ = 01427A6E11612399007830B9 /* PBXTextBookmark */;
+			01427A6F11612399007830B9 /* PBXTextBookmark */ = 01427A6F11612399007830B9 /* PBXTextBookmark */;
+			01B76A2A120B15B900DEAD42 /* PBXTextBookmark */ = 01B76A2A120B15B900DEAD42 /* PBXTextBookmark */;
+			01B76A2B120B15B900DEAD42 /* PBXTextBookmark */ = 01B76A2B120B15B900DEAD42 /* PBXTextBookmark */;
+			01B76A2C120B15B900DEAD42 /* PBXTextBookmark */ = 01B76A2C120B15B900DEAD42 /* PBXTextBookmark */;
+			01B76A2D120B15B900DEAD42 /* PBXTextBookmark */ = 01B76A2D120B15B900DEAD42 /* PBXTextBookmark */;
+			01ED3A35115AC2E4008A32E3 /* PBXTextBookmark */ = 01ED3A35115AC2E4008A32E3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 01ED39BE115AB147008A32E3 /* Source Control */;
+		userBookmarkGroup = 010B06331160E9B70049B1FA /* PBXBookmarkGroup */;
+		userBuildSettings = {
+		};
+	};
+}

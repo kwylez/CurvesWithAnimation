@@ -1,0 +1,427 @@
+TCurvesWithAnimation
+v7
+r0
+t302716084.253735
+cCheck dependencies
+cProcessInfoPlistFile /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/Info.plist CurvesWithAnimation-Info.plist
+cCompileXIB /Users/cwiles/Desktop/CurvesWithAnimation/MainWindow.xib
+cCompileXIB /Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimationViewController.xib
+cProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-bdteyzbnaobpfccdrywltmrqbukd/CurvesWithAnimation_Prefix.pch.gch CurvesWithAnimation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/main.o /Users/cwiles/Desktop/CurvesWithAnimation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/CurvesWithAnimationAppDelegate.o /Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/CurvesWithAnimationViewController.o /Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersView.o /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersOne.o /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersOne.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersTwo.o /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersTwo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersThree.o /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersThree.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimation normal i386
+cGenerateDSYMFile /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app.dSYM /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimation
+cTouch /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AD4D0F600000000000000EE
+t1255461110
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3F672F0000000000000132
+t1279223599
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationAppDelegate.h
+c000000004BAA79A70000000000000221
+t1269463463
+s545
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationAppDelegate.m
+c000000004BAA79A700000000000002A0
+t1269463463
+s672
+i"CurvesWithAnimationAppDelegate.h"
+i"CurvesWithAnimationViewController.h"
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationViewController.h
+c000000004BB0C3DB0000000000000187
+t1269875675
+s391
+i<UIKit/UIKit.h>
+i"RoundedCornersView.h"
+i"RoundedCornersOne.h"
+i"RoundedCornersTwo.h"
+i"RoundedCornersThree.h"
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationViewController.m
+c000000004C5ADD690000000000000A5D
+t1281023337
+s2653
+i"CurvesWithAnimationViewController.h"
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersOne.h
+c000000004BB0C06B0000000000000107
+t1269874795
+s263
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersOne.m
+c000000004BB0C7920000000000000699
+t1269876626
+s1689
+i"RoundedCornersOne.h"
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersThree.h
+c000000004BB0C58C000000000000010B
+t1269876108
+s267
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersThree.m
+c000000004BB0C7B400000000000006BD
+t1269876660
+s1725
+i"RoundedCornersThree.h"
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersTwo.h
+c000000004BB0C59F0000000000000107
+t1269876127
+s263
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersTwo.m
+c000000004BB0C7B000000000000006A4
+t1269876656
+s1700
+i"RoundedCornersTwo.h"
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersView.h
+c000000004BAA7D340000000000000109
+t1269464372
+s265
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersView.m
+c000000004BB0BFFF0000000000000A6E
+t1269874687
+s2670
+i"RoundedCornersView.h"
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimationViewController.xib
+c000000004BAA79A7000000000000190B
+t1269463463
+s6411
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimation_Prefix.pch
+c000000004BAA79A700000000000000CF
+t1269463463
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/MainWindow.xib
+c000000004BAA79A700000000000024D2
+t1269463463
+s9426
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/CurvesWithAnimation.LinkFileList
+c000000004BB0C0BE0000000000000481
+t1269874878
+s1153
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/CurvesWithAnimationAppDelegate.o
+t1281023283
+s45740
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/CurvesWithAnimationViewController.o
+t1281023284
+s41288
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersOne.o
+t1281023284
+s39328
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersThree.o
+t1281023284
+s39388
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersTwo.o
+t1281023284
+s39328
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersView.o
+t1281023284
+s41604
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/main.o
+t1281023283
+s6308
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app
+t1281023284
+s238
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app.dSYM
+t1281023284
+s102
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimation
+t1281023284
+s34696
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimationViewController.nib
+t1281023282
+s795
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/Info.plist
+t1281023282
+s645
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/MainWindow.nib
+t1281023282
+s1123
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/PkgInfo
+t1281023282
+s8
+
+N/Users/cwiles/Desktop/CurvesWithAnimation/main.m
+c000000004BAA79A7000000000000016F
+t1269463463
+s367
+i<UIKit/UIKit.h>
+
+N/var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-dlvgifikefsjrlgqorjxijexktgr/CurvesWithAnimation_Prefix.pch.gch
+t1269463804
+s13034960
+
+N/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-bdteyzbnaobpfccdrywltmrqbukd/CurvesWithAnimation_Prefix.pch.gch
+t1281023283
+s15232016
+
+NCurvesWithAnimation-Info.plist
+c000000004BAA79A7000000000000038D
+t1269463463
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302716082#302716082#0(0"0(0#1#0"8028075772560896000#0"0#
+
+CCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/CurvesWithAnimationAppDelegate.o /Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302716083.829593
+e302716083.920965
+r1
+xCompileC
+xbuild/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/CurvesWithAnimationAppDelegate.o
+x/Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationAppDelegate.m302716083#302716083#0(0"0(0#0#82"/Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationAppDelegate.m8601368512#2234"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-generated-files.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-own-target-headers.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-project-headers.hmap -F/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources/i386 -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-bdteyzbnaobpfccdrywltmrqbukd/CurvesWithAnimation_Prefix.pch -c /Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationAppDelegate.m -o /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/CurvesWithAnimationAppDelegate.o0#
+
+CCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/CurvesWithAnimationViewController.o /Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302716083.919863
+e302716084.009677
+r1
+xCompileC
+xbuild/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/CurvesWithAnimationViewController.o
+x/Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationViewController.m302716083#302716084#0(0"0(0#0#85"/Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationViewController.m8604251328#2240"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-generated-files.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-own-target-headers.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-project-headers.hmap -F/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources/i386 -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-bdteyzbnaobpfccdrywltmrqbukd/CurvesWithAnimation_Prefix.pch -c /Users/cwiles/Desktop/CurvesWithAnimation/Classes/CurvesWithAnimationViewController.m -o /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/CurvesWithAnimationViewController.o0#
+
+CCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersOne.o /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersOne.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302716084.009778
+e302716084.102538
+r1
+xCompileC
+xbuild/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersOne.o
+x/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersOne.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersOne.m302716084#302716084#0(0"0(0#0#69"/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersOne.m8603841824#2208"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-generated-files.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-own-target-headers.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-project-headers.hmap -F/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources/i386 -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-bdteyzbnaobpfccdrywltmrqbukd/CurvesWithAnimation_Prefix.pch -c /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersOne.m -o /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersOne.o0#
+
+CCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersThree.o /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersThree.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302716084.102640
+e302716084.181212
+r1
+xCompileC
+xbuild/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersThree.o
+x/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersThree.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersThree.m302716084#302716084#0(0"0(0#0#71"/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersThree.m8603256064#2212"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-generated-files.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-own-target-headers.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-project-headers.hmap -F/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources/i386 -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-bdteyzbnaobpfccdrywltmrqbukd/CurvesWithAnimation_Prefix.pch -c /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersThree.m -o /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersThree.o0#
+
+CCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersTwo.o /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersTwo.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302716084.033959
+e302716084.132632
+r1
+xCompileC
+xbuild/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersTwo.o
+x/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersTwo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersTwo.m302716084#302716084#0(0"0(0#0#69"/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersTwo.m8603523264#2208"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-generated-files.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-own-target-headers.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-project-headers.hmap -F/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources/i386 -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-bdteyzbnaobpfccdrywltmrqbukd/CurvesWithAnimation_Prefix.pch -c /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersTwo.m -o /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersTwo.o0#
+
+CCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersView.o /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302716083.921045
+e302716084.033855
+r1
+xCompileC
+xbuild/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersView.o
+x/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersView.m302716083#302716084#0(0"0(0#0#70"/Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersView.m8604124576#2210"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-generated-files.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-own-target-headers.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-project-headers.hmap -F/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources/i386 -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-bdteyzbnaobpfccdrywltmrqbukd/CurvesWithAnimation_Prefix.pch -c /Users/cwiles/Desktop/CurvesWithAnimation/Classes/RoundedCornersView.m -o /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/RoundedCornersView.o0#
+
+CCompileC build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/main.o /Users/cwiles/Desktop/CurvesWithAnimation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s302716083.828011
+e302716083.919680
+r1
+xCompileC
+xbuild/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/main.o
+x/Users/cwiles/Desktop/CurvesWithAnimation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/cwiles/Desktop/CurvesWithAnimation/main.m302716083#302716083#0(0"0(0#0#48"/Users/cwiles/Desktop/CurvesWithAnimation/main.m8605804320#2174"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-generated-files.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-own-target-headers.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-project-headers.hmap -F/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources/i386 -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources -include /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-bdteyzbnaobpfccdrywltmrqbukd/CurvesWithAnimation_Prefix.pch -c /Users/cwiles/Desktop/CurvesWithAnimation/main.m -o /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimationViewController.xib
+s302716082.411962
+e302716082.788433
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimationViewController.xib
+lSLF07#2@48"CompileXIB CurvesWithAnimationViewController.xib302716082#302716082#0(0"0(0#0#79"/Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimationViewController.xib8603630752#637"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimationViewController.nib /Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimationViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/cwiles/Desktop/CurvesWithAnimation/MainWindow.xib
+s302716082.411071
+e302716082.821185
+r1
+xCompileXIB
+x/Users/cwiles/Desktop/CurvesWithAnimation/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302716082#302716082#0(0"0(0#0#56"/Users/cwiles/Desktop/CurvesWithAnimation/MainWindow.xib8605727648#591"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/MainWindow.nib /Users/cwiles/Desktop/CurvesWithAnimation/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app.dSYM /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimation
+s302716084.226592
+e302716084.250835
+r1
+xGenerateDSYMFile
+x/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app.dSYM
+x/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimation
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/CurvesWithAnimation.app.dSYM build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimation302716084#302716084#0(0"0(0#0#113"/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimation8603722400#428"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimation -o /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app.dSYM0#
+
+CLd /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimation normal i386
+s302716084.181308
+e302716084.226488
+r1
+xLd
+x/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimation
+xnormal
+xi386
+lSLF07#2@118"Link /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimation302716084#302716084#0(0"0(0#0#0"8604319200#975"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator -F/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator -filelist /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/Objects-normal/i386/CurvesWithAnimation.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/CurvesWithAnimation0#
+
+CProcessInfoPlistFile /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/Info.plist CurvesWithAnimation-Info.plist
+s302716082.393964
+e302716082.410964
+r1
+xProcessInfoPlistFile
+x/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/Info.plist
+xCurvesWithAnimation-Info.plist
+lSLF07#2@38"Process CurvesWithAnimation-Info.plist302716082#302716082#0(0"0(0#0#72"/Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimation-Info.plist29555370777182316#524"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CurvesWithAnimation-Info.plist -genpkginfo /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app/Info.plist0#
+
+CProcessPCH /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-dlvgifikefsjrlgqorjxijexktgr/CurvesWithAnimation_Prefix.pch.gch CurvesWithAnimation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s291156603.898080
+e291156604.985637
+r1
+xProcessPCH
+x/var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-dlvgifikefsjrlgqorjxijexktgr/CurvesWithAnimation_Prefix.pch.gch
+xCurvesWithAnimation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile CurvesWithAnimation_Prefix.pch291156603#291156604#0(0"0(0#0#72"/Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimation_Prefix.pch4300885448#2009"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-generated-files.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-own-target-headers.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-project-headers.hmap -F/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources/i386 -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources -c /Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimation_Prefix.pch -o /var/folders/oW/oWGk0XXrG5CPunTFGS-jhU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-dlvgifikefsjrlgqorjxijexktgr/CurvesWithAnimation_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-bdteyzbnaobpfccdrywltmrqbukd/CurvesWithAnimation_Prefix.pch.gch CurvesWithAnimation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302716082.821344
+e302716083.827910
+r1
+xProcessPCH
+x/var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-bdteyzbnaobpfccdrywltmrqbukd/CurvesWithAnimation_Prefix.pch.gch
+xCurvesWithAnimation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile CurvesWithAnimation_Prefix.pch302716082#302716083#0(0"0(0#0#72"/Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimation_Prefix.pch8603547712#2051"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-generated-files.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-own-target-headers.hmap -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-all-target-headers.hmap -iquote /Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/CurvesWithAnimation-project-headers.hmap -F/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator -I/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/include -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources/i386 -I/Users/cwiles/Desktop/CurvesWithAnimation/build/CurvesWithAnimation.build/Debug-iphonesimulator/CurvesWithAnimation.build/DerivedSources -c /Users/cwiles/Desktop/CurvesWithAnimation/CurvesWithAnimation_Prefix.pch -o /var/folders/q6/q6B2V8mBEPWFI08iPlrbN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CurvesWithAnimation_Prefix-bdteyzbnaobpfccdrywltmrqbukd/CurvesWithAnimation_Prefix.pch.gch0#
+
+CTouch /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app
+s302716084.250926
+e302716084.253690
+r1
+xTouch
+x/Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app
+lSLF07#2@99"Touch /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app302716084#302716084#0(0"0(0#0#0"8603433440#296"    cd /Users/cwiles/Desktop/CurvesWithAnimation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cwiles/Desktop/CurvesWithAnimation/build/Debug-iphonesimulator/CurvesWithAnimation.app0#
+
